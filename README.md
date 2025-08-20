@@ -17,8 +17,5 @@ Projeto utilizando Open API[^1] para documentação.
 ```
 <br>
 
-[^1]: Esta é a primeira nota de rodapé explicando algo importante.
-
-<br>
-[Repository Mavem](https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/2.5.0)
-
+[^1]: [Repository Mavem](https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/2.5.0)
+.
