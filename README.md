@@ -6,7 +6,7 @@ Projeto utilizando Open API para documentação[^1]
 > [!NOTE]
 > Foi utlizado Java v17 e Spring Boot 3.5.0 para a dependência do Maven abaixo.
 
-<br><br><br><br>
+<br><br>
 
 ```maven
 <dependency>
