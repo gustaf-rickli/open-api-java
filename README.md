@@ -1,5 +1,5 @@
 # open-api-java
-Projeto utilizando Open API para documentação[^1].
+Projeto utilizando Open API[^1] para documentação.
 
 <br>
 
@@ -16,7 +16,9 @@ Projeto utilizando Open API para documentação[^1].
 </dependency>
 ```
 <br>
-[^1]: Referência.
+
+[^1]: Esta é a primeira nota de rodapé explicando algo importante.
+
 <br>
 [Repository Mavem](https://mvnrepository.com/artifact/org.springdoc/springdoc-openapi-starter-webmvc-ui/2.5.0)
 
